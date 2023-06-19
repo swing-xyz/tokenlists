@@ -1,0 +1,39 @@
+{
+  "name": "DeFi Kingdoms",
+  "slug": "dfk",
+  "logo": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/dfk/info/logo.png",
+  "blockExploreUrls": ["https://subnets.avax.network/defi-kingdoms/dfk-chain/explorer"],
+  "rpcUrls": ["https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc"],
+  "tokens": [
+    {
+      "symbol": "USDT_t",
+      "decimals": 6,
+      "address": "0xdb28719f7f938507dbfe4f0eae55668903d34a15",
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/dfk/assets/0xdb28719f7f938507dbfe4f0eae55668903d34a15/logo.png"
+    },
+    {
+      "symbol": "USDT",
+      "decimals": 18,
+      "address": "0x0039f574ee5cc39bdd162e9a88e3eb1f111baf48",
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/dfk/assets/0x0039f574ee5cc39bdd162e9a88e3eb1f111baf48/logo.png"
+    },
+    {
+      "symbol": "USDC",
+      "decimals": 18,
+      "address": "0x980a5afef3d17ad98635f6c5aebcbaeded3c3430",
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/dfk/assets/0x980a5afef3d17ad98635f6c5aebcbaeded3c3430/logo.png"
+    },
+    {
+      "symbol": "ETH",
+      "decimals": 18,
+      "address": "0xf55af137a98607f7ed2efefa4cd2dfe70e4253b1",
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/dfk/assets/0xf55af137a98607f7ed2efefa4cd2dfe70e4253b1/logo.png"
+    },
+    {
+      "symbol": "BTCK",
+      "decimals": 18,
+      "address": "0xfa93c12cd345c658bc4644d1d4e1b9615952258c",
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/dfk/assets/0xfa93c12cd345c658bc4644d1d4e1b9615952258c/logo.png"
+    }
+  ]
+}

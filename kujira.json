@@ -1,0 +1,208 @@
+{
+  "chainId": "kaiyo-1",
+  "name": "Kujira",
+  "slug": "kujira",
+  "protocolType": "ibc",
+  "logo": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/kujira/info/logo.png",
+  "blockExploreUrls": ["https://www.mintscan.io/kujira"],
+  "nativeCurrency": "KUJI",
+  "rpcUrls": ["https://kujira.rpc.ghostinnet.com"],
+  "tokens": [
+    {
+      "symbol": "axlUSDC",
+      "name": "axlUSDC",
+      "address": "ibc/295548A78785A1007F232DE286149A6FF512F180AF5657780FC89C009E2C348F",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/kujira/assets/ibc/295548A78785A1007F232DE286149A6FF512F180AF5657780FC89C009E2C348F/logo.png"
+    },
+    {
+      "symbol": "AXL",
+      "name": "AXL",
+      "address": "ibc/C01154C2547F4CB10A985EA78E7CD4BA891C1504360703A37E1D7043F06B5E1F",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/kujira/assets/ibc/C01154C2547F4CB10A985EA78E7CD4BA891C1504360703A37E1D7043F06B5E1F/logo.png"
+    },
+    {
+      "symbol": "axlWETH",
+      "name": "axlWETH",
+      "address": "ibc/1B38805B1C75352B28169284F96DF56BDEBD9E8FAC005BDCC8CF0378C82AA8E7",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/kujira/assets/ibc/1B38805B1C75352B28169284F96DF56BDEBD9E8FAC005BDCC8CF0378C82AA8E7/logo.png"
+    },
+    {
+      "symbol": "axlDAI",
+      "name": "axlDAI",
+      "address": "ibc/3914BDEF46F429A26917E4D8D434620EC4817DC6B6E68FB327E190902F1E9242",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/kujira/assets/ibc/3914BDEF46F429A26917E4D8D434620EC4817DC6B6E68FB327E190902F1E9242/logo.png"
+    },
+    {
+      "symbol": "axlUSDT",
+      "name": "axlUSDT",
+      "address": "ibc/F2331645B9683116188EF36FC04A809C28BD36B54555E8705A37146D0182F045",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/kujira/assets/ibc/F2331645B9683116188EF36FC04A809C28BD36B54555E8705A37146D0182F045/logo.png"
+    },
+    {
+      "symbol": "axlBUSD",
+      "name": "axlBUSD",
+      "address": "ibc/65CD60D7E37EF830BC6B6A6DF4E3E3884A96C0905A7D271C48DC0440B1989EC7",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/kujira/assets/ibc/65CD60D7E37EF830BC6B6A6DF4E3E3884A96C0905A7D271C48DC0440B1989EC7/logo.png"
+    },
+    {
+      "symbol": "axlWBTC",
+      "name": "axlWBTC",
+      "address": "ibc/301DAF9CB0A9E247CD478533EF0E21F48FF8118C4A51F77C8BC3EB70E5566DBC",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/kujira/assets/ibc/301DAF9CB0A9E247CD478533EF0E21F48FF8118C4A51F77C8BC3EB70E5566DBC/logo.png"
+    },
+    {
+      "symbol": "axlWMATIC",
+      "name": "axlWMATIC",
+      "address": "ibc/A64467480BBE4CCFC3CF7E25AD1446AA9BDBD4F5BCB9EF6038B83D6964C784E6",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/kujira/assets/ibc/A64467480BBE4CCFC3CF7E25AD1446AA9BDBD4F5BCB9EF6038B83D6964C784E6/logo.png"
+    },
+    {
+      "symbol": "axlDOT",
+      "name": "axlDOT",
+      "address": "ibc/B37E4D9FB5B30F3E1E20A4B2DE2A005E584C5C822C44527546556AE2470B4539",
+      "decimals": 10,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/kujira/assets/ibc/B37E4D9FB5B30F3E1E20A4B2DE2A005E584C5C822C44527546556AE2470B4539/logo.png"
+    },
+    {
+      "symbol": "axlWAVAX",
+      "name": "axlWAVAX",
+      "address": "ibc/004EBF085BBED1029326D56BE8A2E67C08CECE670A94AC1947DF413EF5130EB2",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/kujira/assets/ibc/004EBF085BBED1029326D56BE8A2E67C08CECE670A94AC1947DF413EF5130EB2/logo.png"
+    },
+    {
+      "symbol": "axlWBNB",
+      "name": "axlWBNB",
+      "address": "ibc/DADB399E742FCEE71853E98225D13E44E90292852CD0033DF5CABAB96F80B833",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/kujira/assets/ibc/DADB399E742FCEE71853E98225D13E44E90292852CD0033DF5CABAB96F80B833/logo.png"
+    },
+    {
+      "symbol": "axlWFTM",
+      "name": "axlWFTM",
+      "address": "ibc/E67ADA2204A941CD4743E70771BA08E24885E1ADD6FD140CE1F9E0FEBB68C6B2",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/kujira/assets/ibc/E67ADA2204A941CD4743E70771BA08E24885E1ADD6FD140CE1F9E0FEBB68C6B2/logo.png"
+    },
+    {
+      "symbol": "axlWETH",
+      "name": "axlWETH",
+      "address": "ibc/1B38805B1C75352B28169284F96DF56BDEBD9E8FAC005BDCC8CF0378C82AA8E7",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/kujira/assets/ibc/1B38805B1C75352B28169284F96DF56BDEBD9E8FAC005BDCC8CF0378C82AA8E7/logo.png"
+    },
+    {
+      "symbol": "axlWMATIC",
+      "name": "axlWMATIC",
+      "address": "ibc/A64467480BBE4CCFC3CF7E25AD1446AA9BDBD4F5BCB9EF6038B83D6964C784E6",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/kujira/assets/ibc/A64467480BBE4CCFC3CF7E25AD1446AA9BDBD4F5BCB9EF6038B83D6964C784E6/logo.png"
+    },
+    {
+      "symbol": "axlWAVAX",
+      "name": "axlWAVAX",
+      "address": "ibc/004EBF085BBED1029326D56BE8A2E67C08CECE670A94AC1947DF413EF5130EB2",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/kujira/assets/ibc/004EBF085BBED1029326D56BE8A2E67C08CECE670A94AC1947DF413EF5130EB2/logo.png"
+    },
+    {
+      "symbol": "axlWGLMR",
+      "name": "axlWGLMR",
+      "address": "ibc/C8D63703F5805CE6A2B20555139CF6ED9CDFA870389648EB08D688B94B0AE2C1",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/kujira/assets/ibc/C8D63703F5805CE6A2B20555139CF6ED9CDFA870389648EB08D688B94B0AE2C1/logo.png"
+    },
+    {
+      "symbol": "axlWBNB",
+      "name": "axlWBNB",
+      "address": "ibc/DADB399E742FCEE71853E98225D13E44E90292852CD0033DF5CABAB96F80B833",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/kujira/assets/ibc/DADB399E742FCEE71853E98225D13E44E90292852CD0033DF5CABAB96F80B833/logo.png"
+    },
+    {
+      "symbol": "axlWFTM",
+      "name": "axlWFTM",
+      "address": "ibc/E67ADA2204A941CD4743E70771BA08E24885E1ADD6FD140CE1F9E0FEBB68C6B2",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/kujira/assets/ibc/E67ADA2204A941CD4743E70771BA08E24885E1ADD6FD140CE1F9E0FEBB68C6B2/logo.png"
+    },
+    {
+      "symbol": "axlRAI",
+      "name": "axlRAI",
+      "address": "ibc/4CA23432A78B272A9EB7010CB72A15A199066D239F1B13BB583F3945EB8A315C",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/kujira/assets/ibc/4CA23432A78B272A9EB7010CB72A15A199066D239F1B13BB583F3945EB8A315C/logo.png"
+    },
+    {
+      "symbol": "axlLINK",
+      "name": "axlLINK",
+      "address": "ibc/FC59D6840A41252352263CEA2B832BB86D68D03CBA194263CB9F3C15946796FB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/kujira/assets/ibc/FC59D6840A41252352263CEA2B832BB86D68D03CBA194263CB9F3C15946796FB/logo.png"
+    },
+    {
+      "symbol": "axlAAVE",
+      "name": "axlAAVE",
+      "address": "ibc/5E6061C9FE6FC8E5E4E0B7A9313561D28BA6D2A246877DF0FB6636EEEA055131",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/kujira/assets/ibc/5E6061C9FE6FC8E5E4E0B7A9313561D28BA6D2A246877DF0FB6636EEEA055131/logo.png"
+    },
+    {
+      "symbol": "axlFRAX",
+      "name": "axlFRAX",
+      "address": "ibc/7B11FE7D6385B46B9F3598B298B81A773CB20A8BA12001D87A78580314218364",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/kujira/assets/ibc/7B11FE7D6385B46B9F3598B298B81A773CB20A8BA12001D87A78580314218364/logo.png"
+    },
+    {
+      "symbol": "axlMKR",
+      "name": "axlMKR",
+      "address": "ibc/31A4E6623063E702FB9CF2E7B616DFCCDE319CA2FC4775CDFF26F29F628E7ACF",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/kujira/assets/ibc/31A4E6623063E702FB9CF2E7B616DFCCDE319CA2FC4775CDFF26F29F628E7ACF/logo.png"
+    },
+    {
+      "symbol": "axlAPE",
+      "name": "axlAPE",
+      "address": "ibc/1C9CC36F8E961719EAF52D4A2ECAB84538D0425C63CAC77D516BF07FFAF931D5",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/kujira/assets/ibc/1C9CC36F8E961719EAF52D4A2ECAB84538D0425C63CAC77D516BF07FFAF931D5/logo.png"
+    },
+    {
+      "symbol": "axlUNI",
+      "name": "axlUNI",
+      "address": "ibc/0A88A08F3E9573DB9D8CB74AA3746F6D23C41C3EE7B6CC5AA4695A1DD74FF86B",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/kujira/assets/ibc/0A88A08F3E9573DB9D8CB74AA3746F6D23C41C3EE7B6CC5AA4695A1DD74FF86B/logo.png"
+    },
+    {
+      "symbol": "axlSHIB",
+      "name": "axlSHIB",
+      "address": "ibc/43BF3152103ED706E207005E7C433AB3440572C1D444FFE49321A0EF6A8EFC82",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/kujira/assets/ibc/43BF3152103ED706E207005E7C433AB3440572C1D444FFE49321A0EF6A8EFC82/logo.png"
+    },
+    {
+      "symbol": "axlAXS",
+      "name": "axlAXS",
+      "address": "ibc/5181AFC5D9858E80212EE5C9F35D52DAE4E26AD5F55B19DD633206C51DECB6AF",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/kujira/assets/ibc/5181AFC5D9858E80212EE5C9F35D52DAE4E26AD5F55B19DD633206C51DECB6AF/logo.png"
+    },
+    {
+      "symbol": "axlXCN",
+      "name": "axlXCN",
+      "address": "ibc/7558FFC9B72318EC0510FC99970F079AA28CE1D96B3C34A775A0CCDBE5A2D500",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/kujira/assets/ibc/7558FFC9B72318EC0510FC99970F079AA28CE1D96B3C34A775A0CCDBE5A2D500/logo.png"
+    }
+  ]
+}

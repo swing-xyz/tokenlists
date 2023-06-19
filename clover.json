@@ -1,0 +1,28 @@
+{
+  "name": "Clover Mainnet",
+  "slug": "clover",
+  "chainId": 1024,
+  "nativeCurrency": "CLV",
+  "logo": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/clover/info/logo.png",
+  "blockExploreUrls": ["https://clvscan.com"],
+  "rpcUrls": ["https://api-para.clover.finance"],
+  "tokens": [
+    {
+      "address": "0x0000000000000000000000000000000000000000",
+      "chainId": 1024,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/clover/assets/0x0000000000000000000000000000000000000000/logo.png",
+      "name": "Clover",
+      "isNative": true,
+      "symbol": "CLV"
+    },
+    {
+      "address": "",
+      "chainId": 1024,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/clover/assets//logo.png",
+      "name": "Wrapped Clover",
+      "symbol": "WCLV"
+    }
+  ]
+}

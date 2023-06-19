@@ -1,0 +1,10 @@
+{
+  "name": "Ape Chain",
+  "slug": "arbitrum",
+  "chainId": 16350,
+  "nativeCurrency": "PEEL",
+  "logo": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/arbitrum/info/logo.png",
+  "blockExploreUrls": ["https://explorer.bas.metaapesgame.com"],
+  "rpcUrls": ["https://bas.metaapesgame.com/bas_mainnet_full_rpc"],
+  "tokens": []
+}

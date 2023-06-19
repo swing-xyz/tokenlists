@@ -1,0 +1,201 @@
+{
+  "chainId": "injective-1",
+  "name": "Injective",
+  "slug": "injective",
+  "protocolType": "ibc",
+  "logo": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/injective/info/logo.png",
+  "blockExploreUrls": ["https://www.mintscan.io/injective"],
+  "nativeCurrency": "INJ",
+  "rpcUrls": ["https://k8s.global.mainnet.tm.injective.network:443"],
+  "tokens": [
+    {
+      "symbol": "axlUSDC",
+      "name": "axlUSDC",
+      "address": "ibc/7E1AF94AD246BE522892751046F0C959B768642E5671CC3742264068D49553C0",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/injective/assets/ibc/7E1AF94AD246BE522892751046F0C959B768642E5671CC3742264068D49553C0/logo.png"
+    },
+    {
+      "symbol": "axlWETH",
+      "name": "axlWETH",
+      "address": "ibc/65A6973F7A4013335AE5FFE623FE019A78A1FEEE9B8982985099978837D764A7",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/injective/assets/ibc/65A6973F7A4013335AE5FFE623FE019A78A1FEEE9B8982985099978837D764A7/logo.png"
+    },
+    {
+      "symbol": "axlDAI",
+      "name": "axlDAI",
+      "address": "ibc/265ABC4B9F767AF45CAC6FB76E930548D835EDA3E94BC56B70582A55A73D8C90",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/injective/assets/ibc/265ABC4B9F767AF45CAC6FB76E930548D835EDA3E94BC56B70582A55A73D8C90/logo.png"
+    },
+    {
+      "symbol": "axlUSDT",
+      "name": "axlUSDT",
+      "address": "ibc/90C6F06139D663CFD7949223D257C5B5D241E72ED61EBD12FFDDA6F068715E47",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/injective/assets/ibc/90C6F06139D663CFD7949223D257C5B5D241E72ED61EBD12FFDDA6F068715E47/logo.png"
+    },
+    {
+      "symbol": "axlBUSD",
+      "name": "axlBUSD",
+      "address": "ibc/A62F794AAEC56B6828541224D91DA3E21423AB0DC4D21ECB05E4588A07BD934C",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/injective/assets/ibc/A62F794AAEC56B6828541224D91DA3E21423AB0DC4D21ECB05E4588A07BD934C/logo.png"
+    },
+    {
+      "symbol": "axlWBTC",
+      "name": "axlWBTC",
+      "address": "ibc/4C8A332AE4FDE42709649B5F9A2A336192158C4465DF74B4513F5AD0C583EA6F",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/injective/assets/ibc/4C8A332AE4FDE42709649B5F9A2A336192158C4465DF74B4513F5AD0C583EA6F/logo.png"
+    },
+    {
+      "symbol": "axlWMATIC",
+      "name": "axlWMATIC",
+      "address": "ibc/7E23647941230DA0AB4ED10F599647D9BE34E1C991D0DA032B5A1522941EBA73",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/injective/assets/ibc/7E23647941230DA0AB4ED10F599647D9BE34E1C991D0DA032B5A1522941EBA73/logo.png"
+    },
+    {
+      "symbol": "axlDOT",
+      "name": "axlDOT",
+      "address": "ibc/624BA9DD171915A2B9EA70F69638B2CEA179959850C1A586F6C485498F29EDD4",
+      "decimals": 10,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/injective/assets/ibc/624BA9DD171915A2B9EA70F69638B2CEA179959850C1A586F6C485498F29EDD4/logo.png"
+    },
+    {
+      "symbol": "axlWAVAX",
+      "name": "axlWAVAX",
+      "address": "ibc/A4FF8E161D2835BA06A7522684E874EFC91004AD0CD14E038F37940562158D73",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/injective/assets/ibc/A4FF8E161D2835BA06A7522684E874EFC91004AD0CD14E038F37940562158D73/logo.png"
+    },
+    {
+      "symbol": "axlWBNB",
+      "name": "axlWBNB",
+      "address": "ibc/B877B8EF095028B807370AB5C7790CA0C328777C9FF09AA7F5436BA7FAE4A86F",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/injective/assets/ibc/B877B8EF095028B807370AB5C7790CA0C328777C9FF09AA7F5436BA7FAE4A86F/logo.png"
+    },
+    {
+      "symbol": "axlWFTM",
+      "name": "axlWFTM",
+      "address": "ibc/31E8DDA49D53535F358B29CFCBED1B9224DAAFE82788C0477930DCDE231DA878",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/injective/assets/ibc/31E8DDA49D53535F358B29CFCBED1B9224DAAFE82788C0477930DCDE231DA878/logo.png"
+    },
+    {
+      "symbol": "axlWETH",
+      "name": "axlWETH",
+      "address": "ibc/65A6973F7A4013335AE5FFE623FE019A78A1FEEE9B8982985099978837D764A7",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/injective/assets/ibc/65A6973F7A4013335AE5FFE623FE019A78A1FEEE9B8982985099978837D764A7/logo.png"
+    },
+    {
+      "symbol": "axlWMATIC",
+      "name": "axlWMATIC",
+      "address": "ibc/7E23647941230DA0AB4ED10F599647D9BE34E1C991D0DA032B5A1522941EBA73",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/injective/assets/ibc/7E23647941230DA0AB4ED10F599647D9BE34E1C991D0DA032B5A1522941EBA73/logo.png"
+    },
+    {
+      "symbol": "axlWAVAX",
+      "name": "axlWAVAX",
+      "address": "ibc/A4FF8E161D2835BA06A7522684E874EFC91004AD0CD14E038F37940562158D73",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/injective/assets/ibc/A4FF8E161D2835BA06A7522684E874EFC91004AD0CD14E038F37940562158D73/logo.png"
+    },
+    {
+      "symbol": "axlWGLMR",
+      "name": "axlWGLMR",
+      "address": "ibc/8FF72FB47F07B4AFA8649500A168683BEFCB9EE164BD331FA597D26224D51055",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/injective/assets/ibc/8FF72FB47F07B4AFA8649500A168683BEFCB9EE164BD331FA597D26224D51055/logo.png"
+    },
+    {
+      "symbol": "axlWBNB",
+      "name": "axlWBNB",
+      "address": "ibc/B877B8EF095028B807370AB5C7790CA0C328777C9FF09AA7F5436BA7FAE4A86F",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/injective/assets/ibc/B877B8EF095028B807370AB5C7790CA0C328777C9FF09AA7F5436BA7FAE4A86F/logo.png"
+    },
+    {
+      "symbol": "axlWFTM",
+      "name": "axlWFTM",
+      "address": "ibc/31E8DDA49D53535F358B29CFCBED1B9224DAAFE82788C0477930DCDE231DA878",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/injective/assets/ibc/31E8DDA49D53535F358B29CFCBED1B9224DAAFE82788C0477930DCDE231DA878/logo.png"
+    },
+    {
+      "symbol": "axlRAI",
+      "name": "axlRAI",
+      "address": "ibc/27817BAE3958FFB2BFBD8F4F6165153DFD230779994A7C42A91E0E45E8201768",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/injective/assets/ibc/27817BAE3958FFB2BFBD8F4F6165153DFD230779994A7C42A91E0E45E8201768/logo.png"
+    },
+    {
+      "symbol": "axlLINK",
+      "name": "axlLINK",
+      "address": "ibc/AC447F1D6EDAF817589C5FECECB6CD3B9E9EFFD33C7E16FE8820009F92A2F585",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/injective/assets/ibc/AC447F1D6EDAF817589C5FECECB6CD3B9E9EFFD33C7E16FE8820009F92A2F585/logo.png"
+    },
+    {
+      "symbol": "axlAAVE",
+      "name": "axlAAVE",
+      "address": "ibc/49265FCAA6CC20B59652C0B45B2283A260BB19FC183DE95C29CCA8E01F8B004C",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/injective/assets/ibc/49265FCAA6CC20B59652C0B45B2283A260BB19FC183DE95C29CCA8E01F8B004C/logo.png"
+    },
+    {
+      "symbol": "axlFRAX",
+      "name": "axlFRAX",
+      "address": "ibc/3E5504815B2D69DCC32B1FF54CDAC28D7DA2C445BD29C496A83732DC1D52DB90",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/injective/assets/ibc/3E5504815B2D69DCC32B1FF54CDAC28D7DA2C445BD29C496A83732DC1D52DB90/logo.png"
+    },
+    {
+      "symbol": "axlMKR",
+      "name": "axlMKR",
+      "address": "ibc/E8C65EFAB7804152191B8311F61877A36779277E316883D8812D3CBEFC79AE4F",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/injective/assets/ibc/E8C65EFAB7804152191B8311F61877A36779277E316883D8812D3CBEFC79AE4F/logo.png"
+    },
+    {
+      "symbol": "axlAPE",
+      "name": "axlAPE",
+      "address": "ibc/8A13F5DA968B4D526E9DC5AE20B584FE62462E80AF06B9D0EA0B0DB35ABBBF27",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/injective/assets/ibc/8A13F5DA968B4D526E9DC5AE20B584FE62462E80AF06B9D0EA0B0DB35ABBBF27/logo.png"
+    },
+    {
+      "symbol": "axlUNI",
+      "name": "axlUNI",
+      "address": "ibc/3E3A8A403AE81114F4341962A6D73162D586C9DF4CE3BE7C7B459108430675F7",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/injective/assets/ibc/3E3A8A403AE81114F4341962A6D73162D586C9DF4CE3BE7C7B459108430675F7/logo.png"
+    },
+    {
+      "symbol": "axlSHIB",
+      "name": "axlSHIB",
+      "address": "ibc/E68343A4DEF4AFBE7C5A9004D4C11888EE755A7B43B3F1AFA52F2C34C07990D5",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/injective/assets/ibc/E68343A4DEF4AFBE7C5A9004D4C11888EE755A7B43B3F1AFA52F2C34C07990D5/logo.png"
+    },
+    {
+      "symbol": "axlAXS",
+      "name": "axlAXS",
+      "address": "ibc/EB519ECF709F0DB6BA1359F91BA2DDC5A07FB9869E1768D377EFEF9DF33DC4AB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/injective/assets/ibc/EB519ECF709F0DB6BA1359F91BA2DDC5A07FB9869E1768D377EFEF9DF33DC4AB/logo.png"
+    },
+    {
+      "symbol": "axlXCN",
+      "name": "axlXCN",
+      "address": "ibc/79D01DE88DFFC0610003439D38200E77A3D2A1CCCBE4B1958D685026ABB01814",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/injective/assets/ibc/79D01DE88DFFC0610003439D38200E77A3D2A1CCCBE4B1958D685026ABB01814/logo.png"
+    }
+  ]
+}

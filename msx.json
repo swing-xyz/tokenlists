@@ -1,0 +1,40 @@
+{
+  "name": "MultiversX",
+  "slug": "msx",
+  "chainId": 1,
+  "nativeCurrency": "EGLD",
+  "logo": "https://raw.githubusercontent.com/multiversx/mx-assets/master/accounts/icons/multiversx.png",
+  "blockExploreUrls": ["https://explorer.multiversx.com/transactions/"],
+  "rpcUrls": ["https://gateway.multiversx.com"],
+  "protocolType": "multiversx",
+  "tokens": [
+    {
+      "symbol": "USDC",
+      "address": "USDC-c76f1f",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/multiversx/mx-assets/master/tokens/USDC-c76f1f/logo.png",
+      "name": "USD Coin"
+    },
+    {
+      "symbol": "USDT",
+      "address": "USDT-f8c08c",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/multiversx/mx-assets/master/tokens/USDT-f8c08c/logo.png",
+      "name": "Tether USD"
+    },
+    {
+      "symbol": "BUSD",
+      "address": "BUSD-40b57e",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/multiversx/mx-assets/master/tokens/BUSD-40b57e/logo.png",
+      "name": "Binance USD"
+    },
+    {
+      "symbol": "UTK",
+      "address": "UTK-2f80e9",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/multiversx/mx-assets/master/tokens/UTK-2f80e9/logo.png",
+      "name": "Utrust Token"
+    }
+  ]
+}

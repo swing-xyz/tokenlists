@@ -1,0 +1,100 @@
+{
+  "name": "Moonbeam",
+  "slug": "moonbeam",
+  "chainId": 1284,
+  "nativeCurrency": "GLMR",
+  "logo": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/moonbeam/info/logo.png",
+  "blockExploreUrls": ["https://moonscan.io"],
+  "rpcUrls": ["https://rpc.api.moonbeam.network"],
+  "tokens": [
+    {
+      "address": "0x0000000000000000000000000000000000000000",
+      "chainId": 1284,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/moonbeam/assets/0x0000000000000000000000000000000000000000/logo.png",
+      "name": "Glimmer",
+      "isNative": true,
+      "symbol": "GLMR"
+    },
+    {
+      "address": "0xc234A67a4F840E61adE794be47de455361b52413",
+      "chainId": 1284,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/moonbeam/assets/0xc234A67a4F840E61adE794be47de455361b52413/logo.png",
+      "name": "Dai Stablecoin",
+      "symbol": "DAI"
+    },
+    {
+      "address": "0x322E86852e492a7Ee17f28a78c663da38FB33bfb",
+      "chainId": 1284,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/moonbeam/assets/0x322E86852e492a7Ee17f28a78c663da38FB33bfb/logo.png",
+      "name": "Frax",
+      "symbol": "FRAX"
+    },
+    {
+      "address": "0x2CC0A9D8047A5011dEfe85328a6f26968C8aaA1C",
+      "chainId": 1284,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/moonbeam/assets/0x2CC0A9D8047A5011dEfe85328a6f26968C8aaA1C/logo.png",
+      "name": "Frax Share",
+      "symbol": "FXS"
+    },
+    {
+      "address": "0x8f552a71EFE5eeFc207Bf75485b356A0b3f01eC9",
+      "chainId": 1284,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/moonbeam/assets/0x8f552a71EFE5eeFc207Bf75485b356A0b3f01eC9/logo.png",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    {
+      "address": "0x8e70cD5B4Ff3f62659049e74b6649c6603A0E594",
+      "chainId": 1284,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/moonbeam/assets/0x8e70cD5B4Ff3f62659049e74b6649c6603A0E594/logo.png",
+      "name": "Tether USD",
+      "symbol": "USDT"
+    },
+    {
+      "address": "0x085416975fe14C2A731a97eC38B9bF8135231F62",
+      "chainId": 1284,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/moonbeam/assets/0x085416975fe14C2A731a97eC38B9bF8135231F62/logo.png",
+      "name": "TerraUSD",
+      "symbol": "UST"
+    },
+    {
+      "address": "0x1DC78Acda13a8BC4408B207c9E48CDBc096D95e0",
+      "chainId": 1284,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/moonbeam/assets/0x1DC78Acda13a8BC4408B207c9E48CDBc096D95e0/logo.png",
+      "name": "Wrapped Bitcoin",
+      "symbol": "WBTC"
+    },
+    {
+      "address": "0x30D2a9F5FDf90ACe8c17952cbb4eE48a55D916A7",
+      "chainId": 1284,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/moonbeam/assets/0x30D2a9F5FDf90ACe8c17952cbb4eE48a55D916A7/logo.png",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    {
+      "address": "0xAcc15dC74880C9944775448304B263D191c6077F",
+      "chainId": 1284,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/moonbeam/assets/0xAcc15dC74880C9944775448304B263D191c6077F/logo.png",
+      "name": "Wrapped Glimmer",
+      "symbol": "WGLMR"
+    },
+    {
+      "address": "0x2C78f1b70Ccf63CDEe49F9233e9fAa99D43AA07e",
+      "chainId": 1284,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/moonbeam/assets/0x2C78f1b70Ccf63CDEe49F9233e9fAa99D43AA07e/logo.png",
+      "name": "Sushi",
+      "symbol": "anySUSHI"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "name": "Arbitrum Nova",
+  "slug": "arbitrum-nova",
+  "chainId": 42170,
+  "nativeCurrency": "ETH",
+  "logo": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/arbitrum-nova/info/logo.png",
+  "blockExploreUrls": ["https://nova-explorer.arbiscan.io"],
+  "rpcUrls": ["https://nova.arbitrum.io/rpc"],
+  "tokens": [
+    {
+      "address": "0x0000000000000000000000000000000000000000",
+      "chainId": 42170,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/arbitrum-nova/assets/0x0000000000000000000000000000000000000000/logo.png",
+      "name": "Ether",
+      "isNative": true,
+      "symbol": "ETH"
+    },
+    {
+      "address": "0x722E8BdD2ce80A4422E880164f2079488e115365",
+      "chainId": 42170,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/arbitrum-nova/assets/0x722E8BdD2ce80A4422E880164f2079488e115365/logo.png",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    {
+      "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+      "chainId": 42170,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/arbitrum-nova/assets/0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1/logo.png",
+      "name": "Dai Stablecoin",
+      "symbol": "DAI"
+    },
+    {
+      "address": "0x750ba8b76187092B0D1E87E28daaf484d1b5273b",
+      "chainId": 42170,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/arbitrum-nova/assets/0x750ba8b76187092B0D1E87E28daaf484d1b5273b/logo.png",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    {
+      "address": "0xeD9d63a96c27f87B07115b56b2e3572827f21646",
+      "chainId": 42170,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/arbitrum-nova/assets/0xeD9d63a96c27f87B07115b56b2e3572827f21646/logo.png",
+      "name": "Tether USD",
+      "symbol": "USDT"
+    },
+    {
+      "address": "0x1d05e4e72cD994cdF976181CfB0707345763564d",
+      "chainId": 42170,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/arbitrum-nova/assets/0x1d05e4e72cD994cdF976181CfB0707345763564d/logo.png",
+      "name": "Wrapped Bitcoin",
+      "symbol": "WBTC"
+    },
+    {
+      "address": "0x0057Ac2d777797d31CD3f8f13bF5e927571D6Ad0",
+      "chainId": 42170,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/arbitrum-nova/assets/0x0057Ac2d777797d31CD3f8f13bF5e927571D6Ad0/logo.png",
+      "name": "Moons",
+      "symbol": "MOON"
+    },
+    {
+      "address": "0x6DcB98f460457fe4952e12779Ba852F82eCC62C1",
+      "chainId": 42170,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/arbitrum-nova/assets/0x6DcB98f460457fe4952e12779Ba852F82eCC62C1/logo.png",
+      "name": "Bricks",
+      "symbol": "BRICK"
+    }
+  ]
+}

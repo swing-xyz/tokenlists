@@ -1,0 +1,243 @@
+{
+  "chainId": "axelar-dojo-1",
+  "name": "Axelar",
+  "slug": "axelar",
+  "protocolType": "ibc",
+  "logo": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/axelar/info/logo.png",
+  "blockExploreUrls": ["https://axelarscan.io"],
+  "nativeCurrency": "Axelar",
+  "rpcUrls": ["https://rpc-axelar.imperator.co:443"],
+  "tokens": [
+    {
+      "symbol": "axlUSDC",
+      "name": "axlUSDC",
+      "address": "uusdc",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/axelar/assets/uusdc/logo.png"
+    },
+    {
+      "symbol": "AXL",
+      "name": "AXL",
+      "address": "uaxl",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/axelar/assets/uaxl/logo.png"
+    },
+    {
+      "symbol": "axlWETH",
+      "name": "axlWETH",
+      "address": "weth-wei",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/axelar/assets/weth-wei/logo.png"
+    },
+    {
+      "symbol": "axlDAI",
+      "name": "axlDAI",
+      "address": "dai-wei",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/axelar/assets/dai-wei/logo.png"
+    },
+    {
+      "symbol": "axlUSDT",
+      "name": "axlUSDT",
+      "address": "uusdt",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/axelar/assets/uusdt/logo.png"
+    },
+    {
+      "symbol": "axlBUSD",
+      "name": "axlBUSD",
+      "address": "busd-wei",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/axelar/assets/busd-wei/logo.png"
+    },
+    {
+      "symbol": "axlWBTC",
+      "name": "axlWBTC",
+      "address": "wbtc-satoshi",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/axelar/assets/wbtc-satoshi/logo.png"
+    },
+    {
+      "symbol": "axlWMATIC",
+      "name": "axlWMATIC",
+      "address": "wmatic-wei",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/axelar/assets/wmatic-wei/logo.png"
+    },
+    {
+      "symbol": "axlDOT",
+      "name": "axlDOT",
+      "address": "dot-planck",
+      "decimals": 10,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/axelar/assets/dot-planck/logo.png"
+    },
+    {
+      "symbol": "axlWAVAX",
+      "name": "axlWAVAX",
+      "address": "wavax-wei",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/axelar/assets/wavax-wei/logo.png"
+    },
+    {
+      "symbol": "axlWBNB",
+      "name": "axlWBNB",
+      "address": "wbnb-wei",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/axelar/assets/wbnb-wei/logo.png"
+    },
+    {
+      "symbol": "axlWFTM",
+      "name": "axlWFTM",
+      "address": "wftm-wei",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/axelar/assets/wftm-wei/logo.png"
+    },
+    {
+      "symbol": "axlWETH",
+      "name": "axlWETH",
+      "address": "weth-wei",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/axelar/assets/weth-wei/logo.png"
+    },
+    {
+      "symbol": "axlWMATIC",
+      "name": "axlWMATIC",
+      "address": "wmatic-wei",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/axelar/assets/wmatic-wei/logo.png"
+    },
+    {
+      "symbol": "axlWAVAX",
+      "name": "axlWAVAX",
+      "address": "wavax-wei",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/axelar/assets/wavax-wei/logo.png"
+    },
+    {
+      "symbol": "axlWGLMR",
+      "name": "axlWGLMR",
+      "address": "wglmr-wei",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/axelar/assets/wglmr-wei/logo.png"
+    },
+    {
+      "symbol": "axlWBNB",
+      "name": "axlWBNB",
+      "address": "wbnb-wei",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/axelar/assets/wbnb-wei/logo.png"
+    },
+    {
+      "symbol": "axlWFTM",
+      "name": "axlWFTM",
+      "address": "wftm-wei",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/axelar/assets/wftm-wei/logo.png"
+    },
+    {
+      "symbol": "axlATOM",
+      "name": "axlATOM",
+      "address": "ibc/9117A26BA81E29FA4F78F57DC2BD90CD3D26848101BA880445F119B22A1E254E",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/axelar/assets/ibc/9117A26BA81E29FA4F78F57DC2BD90CD3D26848101BA880445F119B22A1E254E/logo.png"
+    },
+    {
+      "symbol": "LUNC",
+      "name": "LUNC",
+      "address": "ibc/4627AD2524E3E0523047E35BB76CC90E37D9D57ACF14F0FCBCEB2480705F3CB8",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/axelar/assets/ibc/4627AD2524E3E0523047E35BB76CC90E37D9D57ACF14F0FCBCEB2480705F3CB8/logo.png"
+    },
+    {
+      "symbol": "USTC",
+      "name": "USTC",
+      "address": "ibc/6F4968A73F90CF7DE6394BF937D6DF7C7D162D74D839C13F53B41157D315E05F",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/axelar/assets/ibc/6F4968A73F90CF7DE6394BF937D6DF7C7D162D74D839C13F53B41157D315E05F/logo.png"
+    },
+    {
+      "symbol": "axlRAI",
+      "name": "axlRAI",
+      "address": "rai-wei",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/axelar/assets/rai-wei/logo.png"
+    },
+    {
+      "symbol": "axlLINK",
+      "name": "axlLINK",
+      "address": "link-wei",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/axelar/assets/link-wei/logo.png"
+    },
+    {
+      "symbol": "axlAAVE",
+      "name": "axlAAVE",
+      "address": "aave-wei",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/axelar/assets/aave-wei/logo.png"
+    },
+    {
+      "symbol": "axlFRAX",
+      "name": "axlFRAX",
+      "address": "frax-wei",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/axelar/assets/frax-wei/logo.png"
+    },
+    {
+      "symbol": "axlMKR",
+      "name": "axlMKR",
+      "address": "mkr-wei",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/axelar/assets/mkr-wei/logo.png"
+    },
+    {
+      "symbol": "NGM",
+      "name": "NGM",
+      "address": "ibc/ACD9A665DB6C19EC1D057A43D468E324CA9FB9C5ABF82235815F7B7745A15B80",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/axelar/assets/ibc/ACD9A665DB6C19EC1D057A43D468E324CA9FB9C5ABF82235815F7B7745A15B80/logo.png"
+    },
+    {
+      "symbol": "EEUR",
+      "name": "EEUR",
+      "address": "ibc/373EF14936B38AC8F8A7E7024C0FB7099369FDDFDA3CDA9EFA73684B16249B64",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/axelar/assets/ibc/373EF14936B38AC8F8A7E7024C0FB7099369FDDFDA3CDA9EFA73684B16249B64/logo.png"
+    },
+    {
+      "symbol": "axlAPE",
+      "name": "axlAPE",
+      "address": "ape-wei",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/axelar/assets/ape-wei/logo.png"
+    },
+    {
+      "symbol": "axlUNI",
+      "name": "axlUNI",
+      "address": "uni-wei",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/axelar/assets/uni-wei/logo.png"
+    },
+    {
+      "symbol": "axlSHIB",
+      "name": "axlSHIB",
+      "address": "shib-wei",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/axelar/assets/shib-wei/logo.png"
+    },
+    {
+      "symbol": "axlAXS",
+      "name": "axlAXS",
+      "address": "axs-wei",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/axelar/assets/axs-wei/logo.png"
+    },
+    {
+      "symbol": "axlXCN",
+      "name": "axlXCN",
+      "address": "xcn-wei",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/axelar/assets/xcn-wei/logo.png"
+    }
+  ]
+}

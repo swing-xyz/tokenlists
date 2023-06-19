@@ -1,0 +1,208 @@
+{
+  "chainId": "cosmoshub-4",
+  "name": "Cosmoshub",
+  "slug": "cosmoshub",
+  "protocolType": "ibc",
+  "logo": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/cosmoshub/info/logo.png",
+  "blockExploreUrls": ["https://www.mintscan.io/cosmos"],
+  "nativeCurrency": "ATOM",
+  "rpcUrls": ["https://api.cosmos.network"],
+  "tokens": [
+    {
+      "symbol": "axlUSDC",
+      "name": "axlUSDC",
+      "address": "ibc/932D6003DA334ECBC5B23A071B4287D0A5CC97331197FE9F1C0689BA002A8421",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/cosmoshub/assets/ibc/932D6003DA334ECBC5B23A071B4287D0A5CC97331197FE9F1C0689BA002A8421/logo.png"
+    },
+    {
+      "symbol": "axlWETH",
+      "name": "axlWETH",
+      "address": "ibc/3C168643B15498A2F8BA843649D7CF207EA2F5A7C8AE77BC175EC2FBF21B1BAA",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/cosmoshub/assets/ibc/3C168643B15498A2F8BA843649D7CF207EA2F5A7C8AE77BC175EC2FBF21B1BAA/logo.png"
+    },
+    {
+      "symbol": "axlDAI",
+      "name": "axlDAI",
+      "address": "ibc/4A98C8AC2C35498162346F28EEBF3206CBEF81F44725FE62A3DB0CC10E88E695",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/cosmoshub/assets/ibc/4A98C8AC2C35498162346F28EEBF3206CBEF81F44725FE62A3DB0CC10E88E695/logo.png"
+    },
+    {
+      "symbol": "axlUSDT",
+      "name": "axlUSDT",
+      "address": "ibc/5662412372381F56C5F83A0404DC7209E5143ABD32EF67B5705DBE8D9C2BF001",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/cosmoshub/assets/ibc/5662412372381F56C5F83A0404DC7209E5143ABD32EF67B5705DBE8D9C2BF001/logo.png"
+    },
+    {
+      "symbol": "axlBUSD",
+      "name": "axlBUSD",
+      "address": "ibc/242AFD9038727F23A8CD966BFACAED25609FFA67DDD6BA5F3FB8FBEE1ED66FE3",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/cosmoshub/assets/ibc/242AFD9038727F23A8CD966BFACAED25609FFA67DDD6BA5F3FB8FBEE1ED66FE3/logo.png"
+    },
+    {
+      "symbol": "axlWBTC",
+      "name": "axlWBTC",
+      "address": "ibc/97F15E1BC69D4AAD938CAAA6CA5C963F6159C93059481246A8A26A113BC6BD2C",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/cosmoshub/assets/ibc/97F15E1BC69D4AAD938CAAA6CA5C963F6159C93059481246A8A26A113BC6BD2C/logo.png"
+    },
+    {
+      "symbol": "axlWMATIC",
+      "name": "axlWMATIC",
+      "address": "ibc/BB5D7FBBA895E6E43EAD8D49E084319663139CA438E41796A0ACB657AE64E8F3",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/cosmoshub/assets/ibc/BB5D7FBBA895E6E43EAD8D49E084319663139CA438E41796A0ACB657AE64E8F3/logo.png"
+    },
+    {
+      "symbol": "axlDOT",
+      "name": "axlDOT",
+      "address": "ibc/0D33E2077E140784912451ED189B11D78A4CD10C480C39E0CD91C67B1406B69F",
+      "decimals": 10,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/cosmoshub/assets/ibc/0D33E2077E140784912451ED189B11D78A4CD10C480C39E0CD91C67B1406B69F/logo.png"
+    },
+    {
+      "symbol": "axlWAVAX",
+      "name": "axlWAVAX",
+      "address": "ibc/E8F578B93A25BAE12A8BAD4C6973CF6D3BEB9AC019C8C77E566CE1FFB8F010F3",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/cosmoshub/assets/ibc/E8F578B93A25BAE12A8BAD4C6973CF6D3BEB9AC019C8C77E566CE1FFB8F010F3/logo.png"
+    },
+    {
+      "symbol": "axlWBNB",
+      "name": "axlWBNB",
+      "address": "ibc/771FB23883042F959CDCB02F3D0501CC7F32EF4E28835EE4D7DA8CA7E8CF16F6",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/cosmoshub/assets/ibc/771FB23883042F959CDCB02F3D0501CC7F32EF4E28835EE4D7DA8CA7E8CF16F6/logo.png"
+    },
+    {
+      "symbol": "axlWFTM",
+      "name": "axlWFTM",
+      "address": "ibc/80A8DBDCDC0AD1CF1781110E8438D894199BA2E4240A65DBB833A665E41620CB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/cosmoshub/assets/ibc/80A8DBDCDC0AD1CF1781110E8438D894199BA2E4240A65DBB833A665E41620CB/logo.png"
+    },
+    {
+      "symbol": "axlWETH",
+      "name": "axlWETH",
+      "address": "ibc/3C168643B15498A2F8BA843649D7CF207EA2F5A7C8AE77BC175EC2FBF21B1BAA",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/cosmoshub/assets/ibc/3C168643B15498A2F8BA843649D7CF207EA2F5A7C8AE77BC175EC2FBF21B1BAA/logo.png"
+    },
+    {
+      "symbol": "axlWMATIC",
+      "name": "axlWMATIC",
+      "address": "ibc/BB5D7FBBA895E6E43EAD8D49E084319663139CA438E41796A0ACB657AE64E8F3",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/cosmoshub/assets/ibc/BB5D7FBBA895E6E43EAD8D49E084319663139CA438E41796A0ACB657AE64E8F3/logo.png"
+    },
+    {
+      "symbol": "axlWAVAX",
+      "name": "axlWAVAX",
+      "address": "ibc/E8F578B93A25BAE12A8BAD4C6973CF6D3BEB9AC019C8C77E566CE1FFB8F010F3",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/cosmoshub/assets/ibc/E8F578B93A25BAE12A8BAD4C6973CF6D3BEB9AC019C8C77E566CE1FFB8F010F3/logo.png"
+    },
+    {
+      "symbol": "axlWGLMR",
+      "name": "axlWGLMR",
+      "address": "ibc/6CB279447A96B991FA8986DC4C22C866D215DE1DCDF5F833B81180329FE8001A",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/cosmoshub/assets/ibc/6CB279447A96B991FA8986DC4C22C866D215DE1DCDF5F833B81180329FE8001A/logo.png"
+    },
+    {
+      "symbol": "axlWBNB",
+      "name": "axlWBNB",
+      "address": "ibc/771FB23883042F959CDCB02F3D0501CC7F32EF4E28835EE4D7DA8CA7E8CF16F6",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/cosmoshub/assets/ibc/771FB23883042F959CDCB02F3D0501CC7F32EF4E28835EE4D7DA8CA7E8CF16F6/logo.png"
+    },
+    {
+      "symbol": "axlWFTM",
+      "name": "axlWFTM",
+      "address": "ibc/80A8DBDCDC0AD1CF1781110E8438D894199BA2E4240A65DBB833A665E41620CB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/cosmoshub/assets/ibc/80A8DBDCDC0AD1CF1781110E8438D894199BA2E4240A65DBB833A665E41620CB/logo.png"
+    },
+    {
+      "symbol": "ATOM",
+      "name": "ATOM",
+      "address": "uatom",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/cosmoshub/assets/uatom/logo.png"
+    },
+    {
+      "symbol": "axlRAI",
+      "name": "axlRAI",
+      "address": "ibc/C2B86F0F77B3293EAB92C516CF249BD4CD5A168E5AC3BA5997F07A8D660CDEF2",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/cosmoshub/assets/ibc/C2B86F0F77B3293EAB92C516CF249BD4CD5A168E5AC3BA5997F07A8D660CDEF2/logo.png"
+    },
+    {
+      "symbol": "axlLINK",
+      "name": "axlLINK",
+      "address": "ibc/501C5C52E5D83DB2BA46067694AEEA51C4DC7BF56AA47BD34B12655BAF8B0DF1",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/cosmoshub/assets/ibc/501C5C52E5D83DB2BA46067694AEEA51C4DC7BF56AA47BD34B12655BAF8B0DF1/logo.png"
+    },
+    {
+      "symbol": "axlAAVE",
+      "name": "axlAAVE",
+      "address": "ibc/12A2A9EBFEED1D5511D613E0480FBBD80D8493A5A21ABFB6A7767F0984D8941B",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/cosmoshub/assets/ibc/12A2A9EBFEED1D5511D613E0480FBBD80D8493A5A21ABFB6A7767F0984D8941B/logo.png"
+    },
+    {
+      "symbol": "axlFRAX",
+      "name": "axlFRAX",
+      "address": "ibc/3792246C7C422C037C603C955F8383B4E32E7555D693344F9A029A67FE221C57",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/cosmoshub/assets/ibc/3792246C7C422C037C603C955F8383B4E32E7555D693344F9A029A67FE221C57/logo.png"
+    },
+    {
+      "symbol": "axlMKR",
+      "name": "axlMKR",
+      "address": "ibc/61AC3A1AED345729B29DA6EC644431B70C1EEA3FFE95DAF2ED241F84EEA37638",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/cosmoshub/assets/ibc/61AC3A1AED345729B29DA6EC644431B70C1EEA3FFE95DAF2ED241F84EEA37638/logo.png"
+    },
+    {
+      "symbol": "axlAPE",
+      "name": "axlAPE",
+      "address": "ibc/56B7E889E2DBB57CA8EC1823B000AF66F555E809B9F2B956AD0A1554B35D0B40",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/cosmoshub/assets/ibc/56B7E889E2DBB57CA8EC1823B000AF66F555E809B9F2B956AD0A1554B35D0B40/logo.png"
+    },
+    {
+      "symbol": "axlUNI",
+      "name": "axlUNI",
+      "address": "ibc/A912768BDDAC10A4337F50D91A033DA13EE41285732E82F929EF34E1B2FB3630",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/cosmoshub/assets/ibc/A912768BDDAC10A4337F50D91A033DA13EE41285732E82F929EF34E1B2FB3630/logo.png"
+    },
+    {
+      "symbol": "axlSHIB",
+      "name": "axlSHIB",
+      "address": "ibc/30A1266CA3CEC8347C2FB57E70041A484FD14BE06A089DBAFCD8F7FE8F2D36B3",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/cosmoshub/assets/ibc/30A1266CA3CEC8347C2FB57E70041A484FD14BE06A089DBAFCD8F7FE8F2D36B3/logo.png"
+    },
+    {
+      "symbol": "axlAXS",
+      "name": "axlAXS",
+      "address": "ibc/C1B7AD237AAD68A93186F08FFA5DA687F80B05618217E6E36847B7E85D92B55A",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/cosmoshub/assets/ibc/C1B7AD237AAD68A93186F08FFA5DA687F80B05618217E6E36847B7E85D92B55A/logo.png"
+    },
+    {
+      "symbol": "axlXCN",
+      "name": "axlXCN",
+      "address": "ibc/C8E482E1095EB99EB30B4717DE2DA94997D0582B7A2F6A699A2CA288CA845C03",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/cosmoshub/assets/ibc/C8E482E1095EB99EB30B4717DE2DA94997D0582B7A2F6A699A2CA288CA845C03/logo.png"
+    }
+  ]
+}

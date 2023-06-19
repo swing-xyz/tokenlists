@@ -1,0 +1,65 @@
+{
+  "name": "Cronos",
+  "slug": "cronos",
+  "chainId": 25,
+  "nativeCurrency": "CRO",
+  "logo": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/cronos/info/logo.png",
+  "blockExploreUrls": ["https://cronoscan.com"],
+  "rpcUrls": ["https://evm.cronos.org"],
+  "tokens": [
+    {
+      "symbol": "SYN",
+      "decimals": 18,
+      "address": "0xFD0F80899983b8D46152aa1717D76cba71a31616",
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/cronos/assets/0xFD0F80899983b8D46152aa1717D76cba71a31616/logo.png"
+    },
+    {
+      "symbol": "UST",
+      "decimals": 18,
+      "address": "0x7Bb5c7e3bF0B2a28fA26359667110bB974fF9359",
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/cronos/assets/0x7Bb5c7e3bF0B2a28fA26359667110bB974fF9359/logo.png"
+    },
+    {
+      "symbol": "gOHM",
+      "decimals": 18,
+      "address": "0xbB0A63A6CA2071c6C4bcAC11a1A317b20E3E999C",
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/cronos/assets/0xbB0A63A6CA2071c6C4bcAC11a1A317b20E3E999C/logo.png"
+    },
+    {
+      "symbol": "DAI",
+      "decimals": 18,
+      "address": "0xf2001b145b43032aaf5ee2884e456ccd805f677d",
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/cronos/assets/0xf2001b145b43032aaf5ee2884e456ccd805f677d/logo.png"
+    },
+    {
+      "symbol": "USDC",
+      "decimals": 6,
+      "address": "0xc21223249ca28397b4b6541dffaecc539bff0c59",
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/cronos/assets/0xc21223249ca28397b4b6541dffaecc539bff0c59/logo.png"
+    },
+    {
+      "symbol": "USDT",
+      "decimals": 6,
+      "address": "0x66e428c3f67a68878562e79a0234c1f83c208770",
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/cronos/assets/0x66e428c3f67a68878562e79a0234c1f83c208770/logo.png"
+    },
+    {
+      "symbol": "nUSD",
+      "decimals": 18,
+      "address": "0x396c9c192dd323995346632581BEF92a31AC623b",
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/cronos/assets/0x396c9c192dd323995346632581BEF92a31AC623b/logo.png"
+    },
+    {
+      "symbol": "WETH",
+      "decimals": 18,
+      "address": "0xe44fd7fcb2b1581822d0c862b68222998a0c299a",
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/cronos/assets/0xe44fd7fcb2b1581822d0c862b68222998a0c299a/logo.png"
+    },
+    {
+      "symbol": "WBTC",
+      "decimals": 8,
+      "address": "0x062e66477faf219f25d27dced647bf57c3107d52",
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/cronos/assets/0x062e66477faf219f25d27dced647bf57c3107d52/logo.png"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "name": "Boba L2",
+  "slug": "boba",
+  "chainId": 288,
+  "logo": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/boba/info/logo.png",
+  "blockExploreUrls": ["https://blockexplorer.boba.network"],
+  "rpcUrls": ["https://mainnet.boba.network", "https://lightning-replica.boba.network"],
+  "tokens": [
+    {
+      "symbol": "ETH",
+      "decimals": 18,
+      "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/boba/assets/0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000/logo.png"
+    },
+    {
+      "symbol": "WETH",
+      "decimals": 18,
+      "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/boba/assets/0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000/logo.png"
+    },
+    {
+      "symbol": "USDC",
+      "decimals": 6,
+      "address": "0x66a2A913e447d6b4BF33EFbec43aAeF87890FBbc",
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/boba/assets/0x66a2A913e447d6b4BF33EFbec43aAeF87890FBbc/logo.png"
+    },
+    {
+      "symbol": "DAI",
+      "decimals": 18,
+      "address": "0xf74195Bb8a5cf652411867c5C2C5b8C2a402be35",
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/boba/assets/0xf74195Bb8a5cf652411867c5C2C5b8C2a402be35/logo.png"
+    },
+    {
+      "symbol": "WBTC",
+      "decimals": 8,
+      "address": "0xdc0486f8bf31DF57a952bcd3c1d3e166e3d9eC8b",
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/boba/assets/0xdc0486f8bf31DF57a952bcd3c1d3e166e3d9eC8b/logo.png"
+    },
+    {
+      "symbol": "BOBA",
+      "decimals": 18,
+      "address": "0xa18bF3994C0Cc6E3b63ac420308E5383f53120D7",
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/boba/assets/0xa18bF3994C0Cc6E3b63ac420308E5383f53120D7/logo.png"
+    },
+    {
+      "symbol": "UMA",
+      "decimals": 18,
+      "address": "0x780f33Ad21314d9A1Ffb6867Fe53d48a76Ec0D16",
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/boba/assets/0x780f33Ad21314d9A1Ffb6867Fe53d48a76Ec0D16/logo.png"
+    },
+    {
+      "symbol": "SYN",
+      "decimals": 18,
+      "address": "0xb554A55358fF0382Fb21F0a478C3546d1106Be8c",
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/boba/assets/0xb554A55358fF0382Fb21F0a478C3546d1106Be8c/logo.png"
+    },
+    {
+      "symbol": "UST",
+      "decimals": 18,
+      "address": "0x61A269a9506272D128d79ABfE8E8276570967f00",
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/boba/assets/0x61A269a9506272D128d79ABfE8E8276570967f00/logo.png"
+    },
+    {
+      "symbol": "gOHM",
+      "decimals": 18,
+      "address": "0xd22C0a4Af486C7FA08e282E9eB5f30F9AaA62C95",
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/boba/assets/0xd22C0a4Af486C7FA08e282E9eB5f30F9AaA62C95/logo.png"
+    },
+    {
+      "symbol": "USDT",
+      "decimals": 6,
+      "address": "0x5DE1677344D3Cb0D7D465c10b72A8f60699C062d",
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/boba/assets/0x5DE1677344D3Cb0D7D465c10b72A8f60699C062d/logo.png"
+    },
+    {
+      "symbol": "nUSD",
+      "decimals": 18,
+      "address": "0x6B4712AE9797C199edd44F897cA09BC57628a1CF",
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/boba/assets/0x6B4712AE9797C199edd44F897cA09BC57628a1CF/logo.png"
+    },
+    {
+      "symbol": "nETH",
+      "decimals": 18,
+      "address": "0x96419929d7949D6A801A6909c145C8EEf6A40431",
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/boba/assets/0x96419929d7949D6A801A6909c145C8EEf6A40431/logo.png"
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "name": "Optimism",
+  "slug": "optimism",
+  "chainId": 10,
+  "nativeCurrency": "ETH",
+  "logo": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/optimism/info/logo.png",
+  "blockExploreUrls": ["https://optimistic.etherscan.io"],
+  "rpcUrls": [
+    "https://opt-mainnet.g.alchemy.com/v2/rfsv3ngNyYWsCfQSnW60p0S58GXLdgnv",
+    "https://mainnet.optimism.io",
+    "https://1rpc.io/op",
+    "https://rpc.ankr.com/optimism"
+  ],
+  "tokens": [
+    {
+      "address": "0x0000000000000000000000000000000000000000",
+      "chainId": 10,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/optimism/assets/0x0000000000000000000000000000000000000000/logo.png",
+      "name": "Ether",
+      "isNative": true,
+      "symbol": "ETH"
+    },
+    {
+      "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+      "chainId": 10,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/optimism/assets/0x7F5c764cBc14f9669B88837ca1490cCa17c31607/logo.png",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    {
+      "address": "0x4200000000000000000000000000000000000006",
+      "chainId": 10,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/optimism/assets/0x4200000000000000000000000000000000000006/logo.png",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    {
+      "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
+      "chainId": 10,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/optimism/assets/0x94b008aA00579c1307B0EF2c499aD98a8ce58e58/logo.png",
+      "name": "Tether USD",
+      "symbol": "USDT"
+    },
+    {
+      "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+      "chainId": 10,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/optimism/assets/0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1/logo.png",
+      "name": "Dai Stablecoin",
+      "symbol": "DAI"
+    },
+    {
+      "address": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
+      "chainId": 10,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/optimism/assets/0x68f180fcCe6836688e9084f035309E29Bf0A2095/logo.png",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC"
+    },
+    {
+      "address": "0x350a791Bfc2C21F9Ed5d10980Dad2e2638ffa7f6",
+      "chainId": 10,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/optimism/assets/0x350a791Bfc2C21F9Ed5d10980Dad2e2638ffa7f6/logo.png",
+      "name": "ChainLink Token",
+      "symbol": "LINK"
+    },
+    {
+      "address": "0x2E3D870790dC77A83DD1d18184Acc7439A53f475",
+      "chainId": 10,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/optimism/assets/0x2E3D870790dC77A83DD1d18184Acc7439A53f475/logo.png",
+      "name": "Frax",
+      "symbol": "FRAX"
+    },
+    {
+      "address": "0x8700dAec35aF8Ff88c16BdF0418774CB3D7599B4",
+      "chainId": 10,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/optimism/assets/0x8700dAec35aF8Ff88c16BdF0418774CB3D7599B4/logo.png",
+      "name": "Synthetix Network Token",
+      "symbol": "SNX"
+    },
+    {
+      "address": "0xFB21B70922B9f6e3C6274BcD6CB1aa8A0fe20B80",
+      "chainId": 10,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/optimism/assets/0xFB21B70922B9f6e3C6274BcD6CB1aa8A0fe20B80/logo.png",
+      "name": "TerraUSD",
+      "symbol": "UST"
+    },
+    {
+      "address": "0x67CCEA5bb16181E7b4109c9c2143c24a1c2205Be",
+      "chainId": 10,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/optimism/assets/0x67CCEA5bb16181E7b4109c9c2143c24a1c2205Be/logo.png",
+      "name": "Frax Share",
+      "symbol": "FXS"
+    },
+    {
+      "address": "0xa00E3A3511aAC35cA78530c85007AFCd31753819",
+      "chainId": 10,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/optimism/assets/0xa00E3A3511aAC35cA78530c85007AFCd31753819/logo.png",
+      "name": "Kyber Network Crystal v2",
+      "symbol": "KNC"
+    },
+    {
+      "address": "0x8c6f28f2F1A3C87F0f938b96d27520d9751ec8d9",
+      "chainId": 10,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/optimism/assets/0x8c6f28f2F1A3C87F0f938b96d27520d9751ec8d9/logo.png",
+      "name": "Synth sUSD",
+      "symbol": "sUSD"
+    },
+    {
+      "address": "0xB548f63D4405466B36C0c0aC3318a22fDcec711a",
+      "chainId": 10,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/optimism/assets/0xB548f63D4405466B36C0c0aC3318a22fDcec711a/logo.png",
+      "name": "Rari Governance Token",
+      "symbol": "RGT"
+    },
+    {
+      "address": "0x298B9B95708152ff6968aafd889c6586e9169f1D",
+      "chainId": 10,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/optimism/assets/0x298B9B95708152ff6968aafd889c6586e9169f1D/logo.png",
+      "name": "Synth sBTC",
+      "symbol": "sBTC"
+    },
+    {
+      "address": "0xE405de8F52ba7559f9df3C368500B6E6ae6Cee49",
+      "chainId": 10,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/optimism/assets/0xE405de8F52ba7559f9df3C368500B6E6ae6Cee49/logo.png",
+      "name": "Synth sETH",
+      "symbol": "sETH"
+    },
+    {
+      "address": "0x217D47011b23BB961eB6D93cA9945B7501a5BB11",
+      "chainId": 10,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/optimism/assets/0x217D47011b23BB961eB6D93cA9945B7501a5BB11/logo.png",
+      "name": "Thales DAO Token",
+      "symbol": "THALES"
+    },
+    {
+      "address": "0xEe9801669C6138E84bD50dEB500827b776777d28",
+      "chainId": 10,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/optimism/assets/0xEe9801669C6138E84bD50dEB500827b776777d28/logo.png",
+      "name": "O3 Swap Token",
+      "symbol": "O3"
+    },
+    {
+      "address": "0xc5Db22719A06418028A40A9B5E9A7c02959D0d08",
+      "chainId": 10,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/optimism/assets/0xc5Db22719A06418028A40A9B5E9A7c02959D0d08/logo.png",
+      "name": "Synth sLINK",
+      "symbol": "sLINK"
+    },
+    {
+      "address": "0x0c5b4c92c948691EEBf185C17eeB9c230DC019E9",
+      "chainId": 10,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/optimism/assets/0x0c5b4c92c948691EEBf185C17eeB9c230DC019E9/logo.png",
+      "name": "PickleToken",
+      "symbol": "PICKLE"
+    },
+    {
+      "address": "0x00a35FD824c717879BF370E70AC6868b95870Dfb",
+      "chainId": 10,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/optimism/assets/0x00a35FD824c717879BF370E70AC6868b95870Dfb/logo.png",
+      "name": "IronBank",
+      "symbol": "IB"
+    },
+    {
+      "address": "0xd6909e9e702024eb93312B989ee46794c0fB1C9D",
+      "chainId": 10,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/optimism/assets/0xd6909e9e702024eb93312B989ee46794c0fB1C9D/logo.png",
+      "name": "Biconomy Token",
+      "symbol": "BICO"
+    }
+  ]
+}

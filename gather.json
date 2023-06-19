@@ -1,0 +1,10 @@
+{
+  "name": "Gather",
+  "slug": "gather",
+  "chainId": 192837465,
+  "nativeCurrency": "GTH",
+  "logo": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/gather/info/logo.png",
+  "blockExploreUrls": ["https://explorer.gather.network"],
+  "rpcUrls": ["https://mainnet.gather.network"],
+  "tokens": []
+}

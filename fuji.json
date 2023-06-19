@@ -1,0 +1,28 @@
+{
+  "name": "Fuji",
+  "slug": "fuji",
+  "chainId": 43113,
+  "nativeCurrency": "AVAX",
+  "logo": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/fuji/info/logo.png",
+  "blockExploreUrls": ["https://testnet.snowtrace.io"],
+  "rpcUrls": ["https://avalanche-fuji-c-chain.publicnode.com"],
+  "tokens": [
+    {
+      "address": "0x0000000000000000000000000000000000000000",
+      "chainId": 43113,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/fuji/assets/0x0000000000000000000000000000000000000000/logo.png",
+      "name": "AVAX",
+      "isNative": true,
+      "symbol": "AVAX"
+    },
+    {
+      "address": "0xd00ae08403B9bbb9124bB305C09058E32C39A48c",
+      "chainId": 43113,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/fuji/assets/0xd00ae08403B9bbb9124bB305C09058E32C39A48c/logo.png",
+      "name": "Wrapped AVAX",
+      "symbol": "WAVAX"
+    }
+  ]
+}

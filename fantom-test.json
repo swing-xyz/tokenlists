@@ -1,0 +1,36 @@
+{
+  "name": "Fantom testnet",
+  "slug": "fantom-test",
+  "chainId": 250,
+  "nativeCurrency": "FTM",
+  "logo": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/fantom-test/info/logo.png",
+  "blockExploreUrls": ["https://testnet.ftmscan.com"],
+  "rpcUrls": ["https://endpoints.omniatech.io/v1/fantom/testnet/public"],
+  "tokens": [
+    {
+      "name": "Fantom",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "FTM",
+      "decimals": 18,
+      "chainId": 4002,
+      "isNative": true,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/fantom-test/assets/0x0000000000000000000000000000000000000000/logo.png"
+    },
+    {
+      "address": "0x91ea991bd52EE3C40EdA2509701d905e1Ee54074",
+      "chainId": 4002,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/fantom-test/assets/0x91ea991bd52EE3C40EdA2509701d905e1Ee54074/logo.png",
+      "name": "Fantom USD",
+      "symbol": "FUSD"
+    },
+    {
+      "address": "0xf1277d1Ed8AD466beddF92ef448A132661956621",
+      "chainId": 4002,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/fantom-test/assets/0xf1277d1Ed8AD466beddF92ef448A132661956621/logo.png",
+      "name": "Wrapped Fantom",
+      "symbol": "WFTM"
+    }
+  ]
+}

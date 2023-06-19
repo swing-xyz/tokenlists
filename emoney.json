@@ -1,0 +1,26 @@
+{
+  "chainId": "emoney-3",
+  "name": "e-Money",
+  "slug": "emoney",
+  "protocolType": "ibc",
+  "logo": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/emoney/info/logo.png",
+  "blockExploreUrls": ["https://www.mintscan.io/emoney"],
+  "nativeCurrency": "NGM",
+  "rpcUrls": ["https://emoney.validator.network"],
+  "tokens": [
+    {
+      "symbol": "NGM",
+      "name": "NGM",
+      "address": "ungm",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/emoney/assets/ungm/logo.png"
+    },
+    {
+      "symbol": "EEUR",
+      "name": "EEUR",
+      "address": "eeur",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/emoney/assets/eeur/logo.png"
+    }
+  ]
+}
